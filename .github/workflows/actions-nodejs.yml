@@ -21,6 +21,6 @@ jobs:
         echo 'running build...'
         docker build . -t appsody-codewind-github-actions-nodejs:latest
         echo 'Pushing image...'
-        docker push appsody-codewind-github-actions-nodejs:latest
+        docker push dewan2018/github-actions:appsody-codewind-github-actions-nodejs:latest
         echo 'Done!'
       
