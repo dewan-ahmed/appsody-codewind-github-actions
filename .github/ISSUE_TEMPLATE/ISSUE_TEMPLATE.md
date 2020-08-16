@@ -1,7 +1,7 @@
 ---
-name: Request a DevOps toolchain setup for your team
-about: Request a DevOps toolchain for your component to build under Project Juno. Follow this template to create an issue against juno/build-templates.
-title: "[DevOps Toolchain Setup Request]"
+name: Request access setup for your team
+about: Request access setup for your team.
+title: "[Access Setup Request]"
 labels: 'access request'
 assignees: 'dewan-ahmed'
 
@@ -13,6 +13,6 @@ assignees: 'dewan-ahmed'
 - [ ] I have watched the videos
 - [ ] I have done my research
 
-* name: component-name
+* name: team-name
 * team-admin-emails: email1, email2, ...
 * team-user-emails: email1, email2, ...
